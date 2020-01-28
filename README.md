@@ -1,1 +1,1 @@
-markdown text
+This repositiory contains Day 0 Holberton projects. 
