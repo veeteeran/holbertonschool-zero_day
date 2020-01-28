@@ -1,1 +1,1 @@
-0x00-vagrant directory
+This project is the output when uname is run without options.
